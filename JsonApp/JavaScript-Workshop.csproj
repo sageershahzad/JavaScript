@@ -107,6 +107,7 @@
     <Content Include="js\1-JavaScriptObject\TwoNumbersResult.js" />
     <Content Include="js\2-JavaScript-Cart\callApply.js" />
     <Content Include="js\2-JavaScript-Cart\cart.js" />
+    <Content Include="js\4-JavaScript-Objects\JS-Objects.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
